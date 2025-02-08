@@ -189,6 +189,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Emma Manning** (Georgetown University)
 - **Katie Marshall** (University of British Columbia)
 - **Sarah Masud** (Ph.D. Student)
+- **Saira Susan Mathai**
 - **Paul O'Leary McCann** (Explosion.ai)
 - **Allison McDonald** (University of Michigan)
 - **Kara McShane** (Ursinus College)
